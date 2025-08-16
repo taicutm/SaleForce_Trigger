@@ -3,7 +3,7 @@ trigger bai1 on Account (before insert) {
     for (Account acc: Trigger.new){
       if(acc.Industry == null || acc.Industry == '') {
           acc.Industry = 'Technology';
-          System.debug('Industry field is set to default value: ' + acc.Industry);
+          System.debug('Industry field is set to default value 111: ' + acc.Industry);
       }
     }
 }
