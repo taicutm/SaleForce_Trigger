@@ -1,4 +1,3 @@
-
 testTrigger.sayHello();
 
 Integer result = testTrigger.addNumbers(3, 2);

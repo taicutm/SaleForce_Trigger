@@ -3,10 +3,16 @@
     <types>
 
         <members>bai1</members>
+         <members>bai2test</members>
         <name>ApexClass</name>
     </types>
         <types>
         <members>bai1</members>
+        <members>bai2</members>
+        <members>bai3</members>
+        <members>bai4</members>
+        <members>bai5</members>
+
         <name>ApexTrigger</name>
     </types>
  <!--   <types>
