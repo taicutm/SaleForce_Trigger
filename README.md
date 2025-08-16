@@ -62,9 +62,3 @@ Mục tiêu: nắm vững cú pháp Trigger, xử lý **Before/After**, kiểm s
 3. Cuối cùng luyện **Level 3** để quen recursion, undelete, và rollup aggregate.
 
 ---
-
-✍️ Ghi chú:
-- Nên viết **Test Class** cho từng bài.
-- Dùng `System.debug()` để theo dõi luồng chạy.
-- Chú ý xử lý **bulk-safe** (không query hay DML trong vòng lặp).
-
